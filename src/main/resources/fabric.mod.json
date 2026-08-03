@@ -28,5 +28,8 @@
     "owo-lib": "*",
     "minecraft": ">=${minecraft_version}",
     "java": ">=25"
+  },
+  "breaks": {
+    "caxton": "*"
   }
 }
